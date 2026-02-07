@@ -7,7 +7,7 @@
 ---
 ## Problem
 - Surface + hybrid modeling for plastic injection design 
-- Ultra-precision (1~2mm unit level) parts and assembly focused~
+- Ultra-precision (1~2mm unit level) parts and assembly focused
 ---
 ## Constraints
 - N/A
